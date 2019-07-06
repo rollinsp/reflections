@@ -20,3 +20,7 @@ How would branches help?
 Trying an experimental new feature
 Making an alternate version
 attempting a complicated fix that might not working
+
+How do the diagrams help you visualize the branch structure?
+
+By showing the structure of the upgrade paths
