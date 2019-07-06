@@ -13,3 +13,10 @@ repository is all files that have been committed already
 How can you use the staging area to make sure you have one commit per logical change?
 
 Add to staging area after each logical change
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+
+Trying an experimental new feature
+Making an alternate version
+attempting a complicated fix that might not working
