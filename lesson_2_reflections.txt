@@ -9,3 +9,7 @@ What value do you think it offers?
 Staging area is subset of files that you wish to group together
 Working directory is all files
 repository is all files that have been committed already
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Add to staging area after each logical change
